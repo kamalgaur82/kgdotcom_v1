@@ -43,6 +43,10 @@ export const headerData = {
           href: getPermalink('/about'),
         },
         {
+          text: 'About Kamal',
+          href: getPermalink('/kamal'),
+        },
+        {
           text: 'Contact',
           href: getPermalink('/contact'),
         },
