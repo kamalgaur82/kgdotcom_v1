@@ -1,0 +1,23 @@
+---
+import Item from '~/components/blog/ListItem.astro';
+import type { Post } from '~/types';
+import { getPosts } from '~/utils/api';
+
+export interface Props {
+  posts: Array<Post>;
+}
+
+//const { posts } = Astro.props;
+let posts = await getPosts();
+
+---
+
+<ul>
+  {
+    posts.map((post) => (
+      <li class="mb-12 md:mb-20">
+        <Item post={post} />
+      </li>
+    ))
+  }
+</ul>
