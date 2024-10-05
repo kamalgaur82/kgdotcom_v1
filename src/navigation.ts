@@ -47,6 +47,10 @@ export const headerData = {
           href: getPermalink('/kamal'),
         },
         {
+          text: 'Book a slot',
+          href: getPermalink('https://calendly.com/kamalgaur/30min'),
+        },
+        {
           text: 'Contact',
           href: getPermalink('/contact'),
         },
