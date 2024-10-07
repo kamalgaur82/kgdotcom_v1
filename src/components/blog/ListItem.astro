@@ -7,19 +7,20 @@ import { APP_BLOG } from 'astrowind:config';
 import type { Post } from '~/types';
 
 import { getPermalink } from '~/utils/permalinks';
-import { formatdate, stringformatter, striphtmltags } from '~/utils/utils';
+import { formatdate, striphtmltags } from '~/utils/utils';
 
 export interface Props {
   post: Post;
 }
 
 const { post } = Astro.props;
+
 //const image = (await findImage(post.image)) as ImageMetadata | undefined;
 const image = post._embedded && post._embedded['wp:featuredmedia'] ? post._embedded['wp:featuredmedia']['0'].source_url : undefined; 
 
 const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
 
-const blogpath = `posts/${post.slug}`;
+const blogpath = `/${post.slug}`;
 ---
 
 <article class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 ${image ? 'md:grid-cols-2' : ''}`}>
@@ -66,7 +67,7 @@ const blogpath = `posts/${post.slug}`;
       <div class="mb-1">
         <span class="text-sm">
           <Icon name="tabler:clock" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400" />
-          <time datetime={formatdate(post.date)} class="inline-block">{formatdate(post.date)}</time>
+          <time datetime={formatdate(post.publishDate)} class="inline-block">{formatdate(post.publishDate)}</time>
           {
             post.author && (
               <>
@@ -96,16 +97,14 @@ const blogpath = `posts/${post.slug}`;
               class="inline-block hover:text-primary dark:hover:text-blue-700 transition ease-in duration-200"
               href={blogpath}
             >
-              {stringformatter(post.title.rendered)}
+              {post.title}
             </a>
-          ) : (
-          stringformatter(post.title.rendered)
-          )
+          ) : (post.title)
         }
       </h2>
     </header>
 
-    {post.excerpt && <p class="flex-grow text-muted dark:text-slate-400 text-lg">{striphtmltags(post.excerpt.rendered)}</p>}
+    {post.excerpt && <p class="flex-grow text-muted dark:text-slate-400 text-lg">{striphtmltags(post.excerpt)}</p>}
     {
       post.tags && Array.isArray(post.tags) ? (
         <footer class="mt-5">

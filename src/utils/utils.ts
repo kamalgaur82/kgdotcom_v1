@@ -10,8 +10,8 @@ export const formatter: Intl.DateTimeFormat = new Intl.DateTimeFormat(I18N?.lang
 export const getFormattedDate = (date: Date): string => (date ? formatter.format(date) : '');
 
 //Function to Format date
-export const formatdate = (textvalue : string) => {
-  //const inputDate = "2022-01-23T23:10:22";
+export const formatdate = (textvalue : Date) => {
+
   const date = new Date(textvalue);
   return date.toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' });
 

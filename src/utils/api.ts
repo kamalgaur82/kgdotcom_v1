@@ -1,46 +1,10 @@
-const API_URL = 'https://kamalgaur.com/wp-json/wp/v2/';
 
-// Gets post by API URL and given path
-export async function fetchAPI(path) {
-    const res = await fetch(`${API_URL}${path}`);
-    const json = await res.json();
-
-    return json;
-}
-
-// export const processPosts = (posts : unknown) =>  {
-//     const renewed = [];
-//     posts.array.forEach(element => {
-//         let categorise : any = [];
-//         element.categories.array.forEach(category => {
-//             for (let indexval=0; indexval < categories.length; indexval++) {
-//                 if (category === categories[indexval].id) {
-//                     categorise.push({
-//                         name:   categories[indexval].name,
-//                         slug:   categories[indexval].slug
-//                     })
-//                 }
-//             }
-//         });
-//         element['categoriesNew'] = categorise;
-//         renewed.push(element);
-//     });
-//     return renewed;
-// }
+import { fetchPosts } from './blog';
 
 
-export async function getPosts() {
-    //const posts = await fetchAPI('posts?per_page=10&_fields=author,id,excerpt,title,slug,categories,tags&_embed');
-    const posts = await fetchAPI('posts?per_page=100&_embed&_fields=author,id,excerpt,title,slug,categories,date,content');
-    //const renewed = processPosts(posts)
-    return posts;
-}
-
-export async function getPostBySlug(slugid: string) {
-  //const posts = await fetchAPI('posts?per_page=10&_fields=author,id,excerpt,title,slug,categories,tags&_embed');
-  const posts = await fetchAPI('posts?slug='+slugid+'&_fields=id,excerpt,title,slug,categories,date,content');
-  //const renewed = processPosts(posts)
-  return posts;
+export async function getAllPosts() {
+  const allPosts = await fetchPosts();
+  return allPosts;
 }
 
 export const categories = [
