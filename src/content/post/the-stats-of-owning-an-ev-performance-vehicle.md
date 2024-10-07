@@ -3,7 +3,7 @@ publishDate: 2023-11-14T12:29:57Z
 author: Kamal Gaur
 title: The stats of owning an EV performance vehicle 
 excerpt: I find myself in between cars, having sold my Honda City in Feb 2023 after owning it for 13 years. I had just crossed 80K… 
-category: 933,934,7
+category: General
 ---
 
 I find myself in between cars, having sold my Honda City in Feb 2023 after owning it for 13 years. I had just crossed 80K kms, which if I ignore the 2 years the car sat unattended in Bangalore, comes to approx 606 km per month (513 km per month if I include all 13 years).

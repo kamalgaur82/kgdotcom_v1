@@ -3,7 +3,7 @@ publishDate: 2021-11-06T19:52:21Z
 author: Kamal Gaur
 title: “Leverage smart contracts in the world of UPI to reduce occurrence of scams” 
 excerpt: As the UPI payment ecosystem in India has grown by leaps & bounds in the past few years, one of the challenges that users are… 
-category: 944,921,924,930
+category: General
 ---
 
 As the UPI payment ecosystem in India has grown by leaps & bounds in the past few years, one of the challenges that users are facing is the _finality_ of transactions, or what one would call, the _irreversibility of transactions_ for the sender.

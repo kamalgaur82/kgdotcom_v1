@@ -3,7 +3,7 @@ publishDate: 2012-06-07T05:27:22Z
 author: Kamal Gaur
 title: Comparison Sites Cameras:- The Present and the Future 
 excerpt: This is the first in a series of posts where we look at comparison sites across product categories and review their approach and recommend suggestions… 
-category: 921,924,930
+category: General
 ---
 
 _This is the first in a series of posts where we look at comparison sites across product categories and review their approach and recommend suggestions to make their user offerings stronger._ 

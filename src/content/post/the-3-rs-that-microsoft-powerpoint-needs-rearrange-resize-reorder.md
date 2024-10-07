@@ -3,7 +3,7 @@ publishDate: 2019-06-06T21:02:00Z
 author: Kamal Gaur
 title: The 3 Rs that Microsoft Powerpoint needs – Rearrange, Resize & Reorder 
 excerpt: As time goes by, most of us corporate slaves find ourselves spending more time with Microsoft Powerpoint and less time with Microsoft Excel. I must… 
-category: 921,924,930
+category: General
 ---
 
 As time goes by, most of us corporate slaves find ourselves spending more time with Microsoft Powerpoint and less time with Microsoft Excel.

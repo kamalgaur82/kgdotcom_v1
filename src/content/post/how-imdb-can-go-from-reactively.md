@@ -3,7 +3,7 @@ publishDate: 2012-04-16T15:26:58Z
 author: Kamal Gaur
 title: How IMDb can go from reactively tracking movies to proactively changing the movie industry 
 excerpt: IMDb has been around since 1990 and has been able to surpass our expectations of what a movie database should possess. Not only does IMDb… 
-category: 921,924,930
+category: General
 ---
 
 IMDb has been around since 1990 and has been able to surpass our expectations of what a movie database should possess. Not only does IMDb allow for movies to be rated on a scale of 1 to 10 which help viewers decide which movies to watch – but it has now become the largest global directory of information about people who are involved in movies right from Actors to Directors to Cinematographers to Sound Technicians to Key Grips.

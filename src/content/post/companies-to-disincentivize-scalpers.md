@@ -3,7 +3,7 @@ publishDate: 2021-05-23T01:29:00Z
 author: Kamal Gaur
 title: “Companies to disincentivize scalpers through negative discounts” 
 excerpt: There are a few product categories where scalping is common – usually popular products that get released once in a few years, which are affordable… 
-category: 937,933,922
+category: General
 ---
 
 There are a few product categories where scalping is common – usually popular products that get released once in a few years, which are affordable yet in high demand, and where supply chains take a while to catch up to actual demand. A classic example is Playstation – their latest consoles usually struggle to have enough supply on day 1 of release (or day 60) for that matter.

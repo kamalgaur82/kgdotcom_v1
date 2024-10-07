@@ -3,7 +3,7 @@ publishDate: 2011-08-06T23:04:40Z
 author: Kamal Gaur
 title: “Cycle rickshaws to use geared cycles to help reduce risk of injury and strain” 
 excerpt: One of the first things that strikes you if you land up in Noida from most urban cities, even Indian ones, is the presence of… 
-category: 937,933,922
+category: General
 ---
 
 One of the first things that strikes you if you land up in Noida from most urban cities, even Indian ones, is the presence of rickshaws. And by rickshaws, I don’t mean the 3-wheelers that are called rickshaws in Bombay. Here, rickshaws refer to the cycle rickshaws – whereas the powered 3-wheelers are aptly referred to as ‘auto’. In hindsight, you realize that while cities like Bombay dropped the ‘auto’ from the term ‘autorickshaw’, places like Noida which already had cycle rickshaws before the advent of the autorickshaw, promptly decided to drop the ‘rickshaw’ word and kept the term ‘auto’. But I digress.

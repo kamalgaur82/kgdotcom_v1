@@ -3,7 +3,7 @@ publishDate: 2011-11-11T02:11:38Z
 author: Kamal Gaur
 title: Group-sharing public albums on Facebook 
 excerpt: Facebook has connected the world like never before, but there is still a long way to go. Take a simple example. You go out with… 
-category: 924,931,925
+category: General
 ---
 
 Facebook has connected the world like never before, but there is still a long way to go.

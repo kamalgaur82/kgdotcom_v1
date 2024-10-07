@@ -3,7 +3,7 @@ publishDate: 2013-01-18T02:11:10Z
 author: Kamal Gaur
 title: “Counter Strike scorecards to use ‘relative ranking'” 
 excerpt: Most first-person-shooter (FPS) games have a simple scoring mechanism. The number of enemies you kill is counted as your Kill score, and the number of… 
-category: 920,924,930
+category: General
 ---
 
 Most first-person-shooter (FPS) games have a simple scoring mechanism. The number of enemies you kill is counted as your **Kill score**, and the number of times you die is counted as your **Death score**. Team A’s **total Kill** **score** will typically be the Team B’s **total Death score**. Similarly, Team B’s **total Kill score** will likely be Team A’s **total Death score**. Teams that end up killing the opposing team completely in a given round end up winning that round. And then, the team that racks up the most winning rounds ends up winning the match.

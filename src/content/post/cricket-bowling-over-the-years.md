@@ -3,7 +3,7 @@ publishDate: 2011-01-06T01:39:22Z
 author: Kamal Gaur
 title: Cricket – Bowling Over The Years 
 excerpt: People wonder about who is the fastest bowler in world cricket today? However, there are two parts to bowling speed. The first part is the… 
-category: 933,934,922
+category: General
 ---
 
 People wonder about who is the fastest bowler in world cricket today?

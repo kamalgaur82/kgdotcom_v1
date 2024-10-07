@@ -3,7 +3,7 @@ publishDate: 2020-04-06T12:55:00Z
 author: Kamal Gaur
 title: “Amazon to enable peer-to-peer lending & borrowing of Kindle books” 
 excerpt: As a consumer, I’ve usually been at the forefront of the digital revolution that has taken over the world in the past 2 decades or… 
-category: 936,924,931
+category: General
 ---
 
 As a consumer, I’ve usually been at the forefront of the digital revolution that has taken over the world in the past 2 decades or so – an early-adopter of technologies, if you may. When it comes to Amazon, this means that all my book purchases have been on Kindle since a while now, and my pre-Kindle bookshelf has stayed where it was a decade ago.

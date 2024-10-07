@@ -3,7 +3,7 @@ publishDate: 2021-07-08T13:51:00Z
 author: Kamal Gaur
 title: “Microsoft Powerpoint to add a metric for white space percentage on slides” 
 excerpt: For those of us who build presentations as part of our day jobs, it is important that we find the right balance between information (read… 
-category: 936,924,931
+category: General
 ---
 
 For those of us who build presentations as part of our day jobs, it is important that we find the right balance between information (read overload) and design (read visual appeal).

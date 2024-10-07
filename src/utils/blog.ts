@@ -108,6 +108,7 @@ const load = async function (): Promise<Array<Post>> {
     .sort((a, b) => b.publishDate.valueOf() - a.publishDate.valueOf())
     .filter((post) => !post.draft);
 
+  // console.log(results)
   return results;
 };
 
@@ -133,7 +134,7 @@ export const fetchPosts = async (): Promise<Array<Post>> => {
   if (!_posts) {
     _posts = await load();
   }
-
+  //console.log (_posts)
   return _posts;
 };
 

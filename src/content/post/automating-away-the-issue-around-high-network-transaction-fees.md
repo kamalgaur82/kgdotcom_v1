@@ -3,7 +3,7 @@ publishDate: 2021-11-20T21:49:27Z
 author: Kamal Gaur
 title: “Automating away the issue around high network transaction fees” 
 excerpt: 2021 has seen a stark increase in transaction fees on popular crypto networks, none so more than Ethereum, where user-facing fees have regularly crossed $100… 
-category: 920,944,924,930
+category: General
 ---
 
 2021 has seen a stark increase in transaction fees on popular crypto networks, none so more than Ethereum, where user-facing fees have regularly crossed $100 for long periods of time.

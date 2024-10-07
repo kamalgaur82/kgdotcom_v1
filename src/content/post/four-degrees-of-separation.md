@@ -3,7 +3,7 @@ publishDate: 2011-06-23T22:15:16Z
 author: Kamal Gaur
 title: Four degrees of separation 
 excerpt: The idea of six degrees of separation was expressed by Frigyes Karinthy in 1929 and for the past few decades, it has been part of… 
-category: 920,924,930
+category: General
 ---
 
 The idea of six degrees of separation was expressed by Frigyes Karinthy in 1929 and for the past few decades, it has been part of our consciousness with respect to how the world is shrinking.

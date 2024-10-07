@@ -3,7 +3,7 @@ publishDate: 2019-06-06T23:24:00Z
 author: Kamal Gaur
 title: “The flip side of Google’s always-on single sign-on experience is the lack of privacy when you need it the most” 
 excerpt: Most people who use personal laptops stay signed in to their email & social media accounts, and Big Tech firms like Google encourage & enable… 
-category: 936,924,931
+category: General
 ---
 
 Most people who use personal laptops stay signed in to their email & social media accounts, and Big Tech firms like Google encourage & enable this behaviour – for instance, Chrome asks you to ‘sign in’ to your browser by using your Google account credentials. That allows Google to keep all your content & browsing behaviour synced, measured & tracked – not only for themselves, but also for you, in case you’d ever wish to.

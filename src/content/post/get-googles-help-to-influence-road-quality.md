@@ -3,7 +3,7 @@ publishDate: 2017-10-13T18:24:00Z
 author: Kamal Gaur
 title: Get Google’s help to influence road quality improvement around the world 
 excerpt: We can all agree that road conditions all around the world (most cities in most countries) could do with a lot of improvement. The problem… 
-category: 921,924,930
+category: General
 ---
 
 We can all agree that road conditions all around the world (most cities in most countries) could do with a lot of improvement. The problem gets exacerbated in overcrowded cities with poor road quality (e.g. India and other developing nations).

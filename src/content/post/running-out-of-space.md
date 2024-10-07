@@ -3,7 +3,7 @@ publishDate: 2011-01-06T01:29:48Z
 author: Kamal Gaur
 title: Running Out Of Space 
 excerpt: We all worry about the world running out of space for people, but is it really necessary? Have you realized that if the entire world’s… 
-category: 926,929,922
+category: General
 ---
 
 We all worry about the world running out of space for people, but is it really necessary?
@@ -22,4 +22,3 @@ assigning every person a space of 1 square yard,
 the size of the grid would be 47.17 miles long by 47.17 miles wide.
 
 _(originally posted on a now-defunct blog sometime in 2007)_
-~~~~~~

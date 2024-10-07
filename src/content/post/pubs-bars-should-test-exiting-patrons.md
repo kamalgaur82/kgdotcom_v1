@@ -3,7 +3,7 @@ publishDate: 2019-06-30T04:23:12Z
 author: Kamal Gaur
 title: “Pubs & bars should test exiting patrons with breathalyzers to prevent drunk driving” 
 excerpt: I understand that bars and pubs are like any other establishment – they cater to a certain type of demand, and profit off the product… 
-category: 926,929,922
+category: General
 ---
 
 I understand that bars and pubs are like any other establishment – they cater to a certain type of demand, and profit off the product / service / experience that they provide.

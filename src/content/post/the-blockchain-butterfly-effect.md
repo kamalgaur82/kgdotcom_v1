@@ -3,7 +3,7 @@ publishDate: 2021-10-11T19:41:26Z
 author: Kamal Gaur
 title: The Blockchain Butterfly Effect 
 excerpt: <An abridged version of this article was published in the October 2021 edition of the WIMWIan, a tri-annual magazine with a readership of over 18000… 
-category: 944
+category: General
 ---
 
 _<An abridged version of this article was published in the October 2021 edition of the WIMWIan, a tri-annual magazine with a readership of over 18000 IIM Ahmedabad alumni>_

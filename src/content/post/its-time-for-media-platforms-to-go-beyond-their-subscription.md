@@ -3,7 +3,7 @@ publishDate: 2020-04-18T18:11:00Z
 author: Kamal Gaur
 title: It’s time for media platforms to go beyond their subscription-only revenue models by enabling microtransactions 
 excerpt: It is no secret that the media industry is in trouble. Human beings have moved away from scheduled consumption of content, whether it’s television or… 
-category: 921,924,930
+category: General
 ---
 
 It is no secret that the media industry is in trouble. Human beings have moved away from scheduled consumption of content, whether it’s television or print media, to a world where news is live and everything happens in real-time.

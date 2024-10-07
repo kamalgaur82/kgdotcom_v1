@@ -3,7 +3,7 @@ publishDate: 2011-05-03T12:07:11Z
 author: Kamal Gaur
 title: Address books in mobile phones, even smartphones 
 excerpt: It’s been a good 5-odd years since I noticed this logical flaw in what used to be my Nokia 6610\. Not that I felt it… 
-category: 924,931,925
+category: General
 ---
 
 It’s been a good 5-odd years since I noticed this logical flaw in what used to be my Nokia 6610\. Not that I felt it was an oversight, but at the time, I told myself that it’s probably a lack of foresight on the part of the phone manufacturer, and they will soon recognize and fix it to give users a more accurate experience.

@@ -3,7 +3,7 @@ publishDate: 2021-08-24T21:47:54Z
 author: Kamal Gaur
 title: “Microsoft Excel conditional formatting feature to work on cells based off what other cells contain” 
 excerpt: Since decades now, Microsoft Excel’s conditional formatting feature is applied on cells based on what those cells contain. However, one often comes across situations where… 
-category: 936,924,931
+category: General
 ---
 
 Since decades now, Microsoft Excel’s conditional formatting feature is applied on cells based on what those cells contain. However, one often comes across situations where this feature limits you from what you’d like your Excel to do for you.

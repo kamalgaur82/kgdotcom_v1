@@ -1,9 +1,9 @@
 ---
-publishDate: 2020-03-01T20:11:00Z
+publishDate: 2020-03-01T20:11:00
 author: Kamal Gaur
 title: Going beyond just character names in the Wikipedia plot description 
 excerpt: They say elephants never forget a face. And dogs never forget a name. Scratch that… I think the latter isn’t true. In any case, it… 
-category: 924,931,925
+category: General
 ---
 
 They say elephants never forget a face. And dogs never forget a name. Scratch that… I think the latter isn’t true.

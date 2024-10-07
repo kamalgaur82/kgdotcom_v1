@@ -3,7 +3,7 @@ publishDate: 2012-01-22T18:23:20Z
 author: Kamal Gaur
 title: “Reinventing life for the resume maker in each of us…” 
 excerpt: Making resumes is an iterative process. A long, arduous one – depending on your proclivity towards the same. Which, unless you’re a resume-maker by profession,… 
-category: 920,924,930
+category: General
 ---
 
 Making resumes is an iterative process.

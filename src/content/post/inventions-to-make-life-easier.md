@@ -3,7 +3,7 @@ publishDate: 2011-01-06T01:04:22Z
 author: Kamal Gaur
 title: Inventions to make life easier – Google – Gmail 
 excerpt: Gmail has, over the years, intelligently avoided the problem of folders by using labels. However, there are usability issues that they haven’t addressed yet, and… 
-category: 924,931,925
+category: General
 ---
 
 Gmail has, over the years, intelligently avoided the problem of folders by using labels.

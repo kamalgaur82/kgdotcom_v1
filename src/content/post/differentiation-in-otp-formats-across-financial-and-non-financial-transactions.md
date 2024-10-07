@@ -3,7 +3,7 @@ publishDate: 2021-10-13T12:34:01Z
 author: Kamal Gaur
 title: “Differentiation in OTP formats across financial and non-financial transactions” 
 excerpt: Not sure if people have noticed that we’re sending mixed messages to those in our lives who are less digitally savvy than we are, and… 
-category: 936,924,931
+category: General
 ---
 
 Not sure if people have noticed that we’re sending mixed messages to those in our lives who are less digitally savvy than we are, and we need to arrest this before it’s too late.

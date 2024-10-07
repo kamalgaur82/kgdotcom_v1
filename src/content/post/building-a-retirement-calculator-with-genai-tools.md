@@ -3,9 +3,7 @@ publishDate: 2024-09-24T18:27:22Z
 author: Kamal Gaur
 title: Building a retirement calculator with GenAI tools 
 excerpt: They say retirement planning is one of the most complex problems to solve since it involves a lot of moving parts – Known variables Unknown… 
-metadata: 
-	canonical: Building a retirement calculator with GenAI tools 
-category: 920,924,930,7
+category: General
 ---
 
 They say retirement planning is one of the most complex problems to solve since it involves a lot of moving parts –

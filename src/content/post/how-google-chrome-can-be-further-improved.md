@@ -3,7 +3,7 @@ publishDate: 2012-01-27T17:54:26Z
 author: Kamal Gaur
 title: How Google Chrome can be further improved 
 excerpt: Over the past 15 years, I’ve used almost every browser that has come along – starting with Internet Explorer, then Netscape Navigator, then Opera, then… 
-category: 936,924,931
+category: General
 ---
 
 Over the past 15 years, I’ve used almost every browser that has come along – starting with Internet Explorer, then Netscape Navigator, then Opera, then Mozilla Firefox and then finally Google Chrome. IE was always too bulky and slow, and it amazes me that it is still the [leading](http://en.wikipedia.org/wiki/Usage%5Fshare%5Fof%5Fweb%5Fbrowsers#Wikimedia%5F.28April%5F2009%5Fto%5Fpresent.29 "Usage share of web browsers") browser in use around the world.

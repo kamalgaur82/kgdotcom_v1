@@ -3,7 +3,7 @@ publishDate: 2021-12-28T16:06:37Z
 author: Kamal Gaur
 title: “Amazon to explore a secondary marketplace for ‘used’ Kindle ebooks” 
 excerpt: This idea is derived from the earlier idea I’d posted about around peer-to-peer lending & borrowing of Kindle ebooks. If you take that a step… 
-category: 936,924,931
+category: General
 ---
 
 This idea is derived from the earlier idea I’d posted about around[ peer-to-peer lending & borrowing of Kindle ebooks](https://kamalgaur.com/amazon-to-enable-peer-to-peer-lending-borrowing-of-kindle-books/).

@@ -3,7 +3,7 @@ publishDate: 2020-01-04T04:12:49Z
 author: Kamal Gaur
 title: “Swiggy to build a ‘tongue print’ for every user” 
 excerpt: Swiggy should look to build a ‘taste fingerprint’ for every user based on their order history. This ‘tongue print’ will represent the unique food preferences… 
-category: 936,924,931
+category: General
 ---
 
 Swiggy should look to build a ‘taste fingerprint’ for every user based on their order history. This ‘tongue print’ will represent the unique food preferences of the user, which will differ for everyone, based on the distinctions in our choices.

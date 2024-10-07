@@ -3,7 +3,7 @@ publishDate: 2015-04-20T00:55:16Z
 author: Kamal Gaur
 title: Apart from Mobile Internet in India, is there anything else you pay a 1600x price differential for? 
 excerpt: Those of you who know me in real life know how important a role the Internet plays in my life. Over the years, I’ve ended… 
-category: 933,934,922
+category: General
 ---
 
 Those of you who know me in real life know how important a role the Internet plays in my life. Over the years, I’ve ended up building simple Excel models that allow me to check which broadband plan offers the best value for money, viz. how much bang for the buck am I getting when it comes to Internet service? You can find one of my older models [here](https://docs.google.com/spreadsheets/d/1J2OmcYVK9MGN6REVgjiJlxhQw59ghh46xSrvvMw6aqE/edit?usp=sharing "Broadband comparison table").

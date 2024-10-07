@@ -3,7 +3,7 @@ publishDate: 2011-12-16T20:06:14Z
 author: Kamal Gaur
 title: In the era of zero to no privacy, doesn’t the world need… 
 excerpt: …a service that scours the world wide web and tells you where your email ID is registered? It might have been the technology forums you… 
-category: 920,924,930
+category: General
 ---
 
 …a service that scours the world wide web and tells you where your email ID is registered?

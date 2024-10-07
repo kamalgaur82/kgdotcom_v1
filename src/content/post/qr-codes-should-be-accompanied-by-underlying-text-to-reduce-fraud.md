@@ -3,7 +3,7 @@ publishDate: 2021-10-15T03:58:59Z
 author: Kamal Gaur
 title: “QR codes should be accompanied by underlying text to reduce fraud” 
 excerpt: The use of QR (Quick Response) codes has proliferated in places like India as it acts as a quick and simple way to transfer money… 
-category: 936,924,931
+category: General
 ---
 
 The use of QR (Quick Response) codes has proliferated in places like India as it acts as a quick and simple way to transfer money to the recipient without having to even key in the 10-digit mobile number (and waiting for apps like Google Pay to live search on their database to show you the recipient name).

@@ -3,7 +3,7 @@ publishDate: 2012-01-26T01:35:24Z
 author: Kamal Gaur
 title: Save on international flight travel costs to/from India using arbitrage opportunities 
 excerpt: Some of the Indian travel websites like cleartrip.com, makemytrip.com and yatra.com now offer search for India-RestoftheWorld-India travel – the prices, depending on the deals these… 
-category: 921,924,930
+category: General
 ---
 
 Some of the Indian travel websites like [cleartrip.com](http://www.cleartrip.com), [makemytrip.com](http://www.makemytrip.com) and [yatra.com](http://www.yatra.com) now offer search for India-RestoftheWorld-India travel – the prices, depending on the deals these sites have made, are aggressive for certain airlines, routes and dates.

@@ -3,7 +3,7 @@ publishDate: 2020-01-04T04:11:23Z
 author: Kamal Gaur
 title: “Pocket app to offer removal of query parameters & duplicates and allow easy export/import” 
 excerpt: I have been using Pocket to bookmark URLs for a while now. And one of the annoying things I find is the fact that Pocket… 
-category: 924,931,925
+category: General
 ---
 
 I have been using Pocket to bookmark URLs for a while now. And one of the annoying things I find is the fact that Pocket adds the following string at the end of all URLs I save with them – “?utm\_source=pocket\_shared”.  

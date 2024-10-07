@@ -3,7 +3,7 @@ publishDate: 2022-01-23T23:10:22Z
 author: Kamal Gaur
 title: “Amazon to add a filter for ‘number of ratings'” 
 excerpt: Jeff Bezos is famous for focusing not on his competition, but on what the customer needs. He’s been quoted as saying – “We’re not competitor… 
-category: 936,924,931
+category: General
 ---
 
 Jeff Bezos is famous for focusing not on his competition, but on what the customer needs. He’s been quoted as saying – “We’re not competitor obsessed, we’re _customer obsessed_. We start with what the customer needs and we work backwards.”

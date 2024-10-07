@@ -3,7 +3,7 @@ publishDate: 2011-06-23T07:33:08Z
 author: Kamal Gaur
 title: Facebook with more than 1 status update 
 excerpt: I know it might seem like an overkill but I do believe that Facebook should roll out an option for users to post 2 status… 
-category: 924,931,925
+category: General
 ---
 
 I know it might seem like an overkill but I do believe that Facebook should roll out an option for users to post 2 status updates instead of 1.

@@ -3,7 +3,7 @@ publishDate: 2011-03-08T18:53:52Z
 author: Kamal Gaur
 title: Your impact on your social network 
 excerpt: Facebook, like no other entity of our time, has been advocating a more open and connected world since the get-go. One way Facebook is attempting… 
-category: 920,924,930
+category: General
 ---
 
 Facebook, like no other entity of our time, has been advocating a more open and connected world since the get-go.

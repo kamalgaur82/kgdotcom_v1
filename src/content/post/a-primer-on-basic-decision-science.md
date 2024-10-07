@@ -3,7 +3,7 @@ publishDate: 2012-03-04T03:07:31Z
 author: Kamal Gaur
 title: A primer on basic decision science using the Indian online marketplace for SDHC cards 
 excerpt: The market for electronics products, especially in India, is still quite fragmented to say the least. Apart from the fact that every dollar price is… 
-category: 924,931,925
+category: General
 ---
 
 The market for electronics products, especially in India, is still quite fragmented to say the least. Apart from the fact that every dollar price is inflated, it becomes all the more important, to not only compare published prices across brands but also look at which of the brands are available in India, and at what prices.

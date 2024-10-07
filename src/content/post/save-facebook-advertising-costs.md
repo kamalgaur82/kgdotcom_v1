@@ -3,7 +3,7 @@ publishDate: 2011-11-08T01:45:45Z
 author: Kamal Gaur
 title: Save Facebook advertising costs using arbitrage opportunities 
 excerpt: A couple of months ago, I was looking at Facebook Ads to spread the word about this new restaurant my friend is setting up. I’ve… 
-category: 924,931,925
+category: General
 ---
 
 A couple of months ago, I was looking at Facebook Ads to spread the word about this new restaurant my friend is setting up. I’ve always been intrigued about how online advertising works, and the level of potential it has to improve intelligently based on its target users.

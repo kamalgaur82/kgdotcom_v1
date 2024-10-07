@@ -3,7 +3,7 @@ publishDate: 2011-03-02T00:17:11Z
 author: Kamal Gaur
 title: What’s next, Dr. Watson? 
 excerpt: It was sometime during my discovery of Dr. Watson and what IBM has finally managed to do, that it hit me – the fact that… 
-category: 926,929,922
+category: General
 ---
 
 It was sometime during my discovery of Dr. Watson and what IBM has finally managed to do, that it hit me – the fact that there is still, such a vast difference in what we can imagine and what we can execute. You can read all the fiction novels you want and watch all the sci-fi movies that are out there but when it finally comes down to live execution in the real world, there is still a long way for us humans to catch up with our imaginations.

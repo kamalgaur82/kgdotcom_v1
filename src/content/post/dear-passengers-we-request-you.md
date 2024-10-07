@@ -3,7 +3,7 @@ publishDate: 2011-12-12T00:13:03Z
 author: Kamal Gaur
 title: Dear passengers, we request you to kindly turn off your phones… 
 excerpt: …as they interfere with the aircraft’s communications. Really? —————- Dear flight attendant, Let’s stop, pause and ruminate over what you just said. Are you… 
-category: 5
+category: General
 ---
 
 …as they interfere with the aircraft’s communications.

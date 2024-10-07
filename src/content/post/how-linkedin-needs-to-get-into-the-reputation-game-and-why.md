@@ -3,7 +3,7 @@ publishDate: 2012-05-18T08:21:07Z
 author: Kamal Gaur
 title: How Linkedin needs to get into the Reputation game (and why) 
 excerpt: We all know how Linkedin works – people have their own profiles, which they update with their work experience, and over time, build a set… 
-category: 921,924,930
+category: General
 ---
 
 We all know how [Linkedin](http://www.linkedin.com/in/kamalgaur "Linkedin: Kamal Gaur") works – people have their own profiles, which they update with their work experience, and over time, build a set of recommendations from other Linkedin users with whom they have worked.

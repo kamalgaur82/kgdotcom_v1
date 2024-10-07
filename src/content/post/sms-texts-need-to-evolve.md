@@ -3,7 +3,7 @@ publishDate: 2011-12-16T01:08:14Z
 author: Kamal Gaur
 title: “SMS texts need to evolve…” 
 excerpt: I mean, if SMS texts have evolved from using alphabets and digits to using special characters to allowing those special characters to show up as… 
-category: 920,924,930
+category: General
 ---
 
 I mean, if SMS texts have evolved from using alphabets and digits to using special characters to allowing those special characters to show up as emoticons in your text messages, you would think that **bold** and _italics_ and underline aren’t too far behind, right?

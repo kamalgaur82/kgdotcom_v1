@@ -3,7 +3,7 @@ publishDate: 2011-11-07T21:57:52Z
 author: Kamal Gaur
 title: Is Facebook’s graph theory algorithm working fine? 
 excerpt: I’m not sure how many of you have noticed this but there are days when your count of friends on Facebook fluctuates up and down.… 
-category: 3,7
+category: General
 ---
 
 I’m not sure how many of you have noticed this but there are days when your count of friends on Facebook fluctuates up and down. Not by much, mind you… maybe 1 or 2, sometimes even 3\. And I’d be wrong to say that it fluctuates up and down… it usually goes down, then comes back up to the correct level. It never exceeds what the true count is.

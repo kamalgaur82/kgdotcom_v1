@@ -3,7 +3,7 @@ publishDate: 2011-06-22T17:28:58Z
 author: Kamal Gaur
 title: The Positivity of Facebook 
 excerpt: Even though I’ve been using social networking for aeons now, it was only recently that I noticed an aspect that hadn’t quite struck me before.… 
-category: 936,924,931
+category: General
 ---
 
 Even though I’ve been using social networking for aeons now, it was only recently that I noticed an aspect that hadn’t quite struck me before.

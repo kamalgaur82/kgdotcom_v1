@@ -3,7 +3,7 @@ publishDate: 2011-09-29T17:16:45Z
 author: Kamal Gaur
 title: Inelasticity of Economics and the Ingenuity of Man 
 excerpt: Ever wonder, how does one make telecom usage price inelastic? International SMSs have been Rs.5/sms since as far back as I can remember. The telcos… 
-category: 5
+category: General
 ---
 
 Ever wonder, how does one make telecom usage price inelastic?

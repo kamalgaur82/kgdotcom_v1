@@ -3,7 +3,7 @@ publishDate: 2021-10-17T12:07:22Z
 author: Kamal Gaur
 title: “Online shopping platforms to allow customers to split their spends using multiple payment options” 
 excerpt: Online shopping platforms allow for multiple types of payment options like credit cards, debit cards, online banking, UPI, and wallets. However, not sure how many… 
-category: 936,924,931
+category: General
 ---
 
 Online shopping platforms allow for multiple types of payment options like credit cards, debit cards, online banking, UPI, and wallets. However, not sure how many people have noticed that there’s one glaring opportunity that is being missed out, which is completely in the control of these online shopping platforms.

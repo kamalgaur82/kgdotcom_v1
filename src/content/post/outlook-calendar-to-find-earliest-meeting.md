@@ -3,7 +3,7 @@ publishDate: 2013-01-18T02:14:17Z
 author: Kamal Gaur
 title: “Outlook calendar to find earliest meeting slots with N, N-1, N-2 participants” 
 excerpt: In the corporate workplace, often there are times when you need to find meeting slots when everyone is available, but the process to find the… 
-category: 936,924,931
+category: General
 ---
 
 In the corporate workplace, often there are times when you need to find meeting slots when everyone is available, but the process to find the slot is manually tedious and time-consuming.

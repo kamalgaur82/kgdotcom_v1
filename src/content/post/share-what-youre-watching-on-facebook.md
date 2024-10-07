@@ -3,7 +3,7 @@ publishDate: 2011-11-07T21:55:52Z
 author: Kamal Gaur
 title: “Share what you’re watching on Facebook” 
 excerpt: If you’re watching something, and you want to share that as a post, there should be an easy way of doing that on the Facebook… 
-category: 936,924,931
+category: General
 ---
 
 If you’re watching something, and you want to share that as a post, there should be an easy way of doing that on the Facebook Feed. Currently the best way I know is this – find the page for that movie, like it, and write a status update that tags that page – which is too cumbersome and painful.
