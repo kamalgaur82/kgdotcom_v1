@@ -1,7 +1,7 @@
 ---
 import ToBlogLink from '~/components/blog/ToBlogLink.astro';
 import Layout from '~/layouts/PageLayout.astro';
-import { getPosts } from '~/utils/api';
+import { getAllPosts } from '~/utils/api';
 import Image from '~/components/common/Image.astro';
 import { Icon } from 'astro-icon/components';
 import { formatdate, stringformatter } from '~/utils/utils';
@@ -12,19 +12,19 @@ import { headerData } from '~/navigation';
 const { slug } = Astro.params;
 
 export async function getStaticPaths() {
-    let posts = await getPosts();
+    let posts = await getAllPosts();
 
     return posts.map((post) => {
         return {
             params: { slug: post.slug },
             props: {
-                title: post.title.rendered,
-                content: post.content.rendered,
-                image: post._embedded && post._embedded['wp:featuredmedia'] ? post._embedded['wp:featuredmedia']['0'].source_url : '',
-                date : post.date,
+                title: post.title,
+                content: post.content,
+                image: post.image ? post.image : '',
+                date : post.publishDate,
                 author: 'Kamal Gaur',
                 category: 'Primary',
-                excerpt: post.excerpt.rendered,
+                excerpt: post.excerpt,
                 // Spreading the Custom Fields into a meta object
                 meta: {
                     ...post.acf,
