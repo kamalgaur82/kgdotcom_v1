@@ -16,7 +16,7 @@ export interface Props {
 const { post } = Astro.props;
 
 //const image = (await findImage(post.image)) as ImageMetadata | undefined;
-const image = post._embedded && post._embedded['wp:featuredmedia'] ? post._embedded['wp:featuredmedia']['0'].source_url : undefined; 
+const image = post.image ? post.image : undefined; 
 
 const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
 

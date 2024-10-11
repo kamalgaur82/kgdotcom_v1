@@ -46,7 +46,6 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
 
   const {
     publishDate: rawPublishDate = new Date(),
-    updateDate: rawUpdateDate,
     title,
     excerpt,
     image,
@@ -59,7 +58,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
 
   const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
   const publishDate = new Date(rawPublishDate);
-  const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
+  const updateDate = publishDate;
 
   const category = rawCategory
     ? {
