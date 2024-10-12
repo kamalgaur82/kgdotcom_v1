@@ -29,6 +29,6 @@ I decided to take Claude AI for a spin and was blown away by how quickly it was 
 
 This is what the tool finally looked like – 
 
-[![](https://kamalgaur.com/wp-content/uploads/2024/09/v3.9-1024x842.png)](https://kamalgaur.com/wp-content/uploads/2024/09/v3.9.png)
+![A local image](/images/retirement-calc.png)
 
 Feel free to [take it for a spin](https://claude.site/artifacts/0a673300-656a-4b16-8123-3854e5fcb4e8), and let me know your thoughts in the comments below.

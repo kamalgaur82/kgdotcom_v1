@@ -55,6 +55,5 @@ For simplicity’s sake, let’s assume a subset of the city, say a road of 6 km
 * Increase the measuring window to a week, or a month, or a year, and you get a simple single metric that encapsulates performance for any given time period.
 * In the long-term future, Google ought to publish leaderboards of all cities which might look at under –
 
-[![](https://kamalgaur.com/wp-content/uploads/2020/12/image-1.png)](https://kamalgaur.com/wp-content/uploads/2020/12/image-1.png)
-
+![A local image](/images/image-1.png)
 Note: This was also raised as a Change.org [petition](https://www.change.org/p/google-inc-get-google-s-help-to-influence-improvement-of-roads) on 13-Oct-2017.

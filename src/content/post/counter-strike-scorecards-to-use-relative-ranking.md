@@ -8,7 +8,7 @@ category: General
 
 Most first-person-shooter (FPS) games have a simple scoring mechanism. The number of enemies you kill is counted as your **Kill score**, and the number of times you die is counted as your **Death score**. Team A’s **total Kill** **score** will typically be the Team B’s **total Death score**. Similarly, Team B’s **total Kill score** will likely be Team A’s **total Death score**. Teams that end up killing the opposing team completely in a given round end up winning that round. And then, the team that racks up the most winning rounds ends up winning the match.
 
-[![](https://kamalgaur.com/wp-content/uploads/2013/01/cs_arabstreets0001.jpeg)](https://kamalgaur.com/wp-content/uploads/2013/01/cs%5Farabstreets0001.jpeg)
+![A local image](/images/cs_arabstreets0001.jpeg)
 
 Building on this, one could calculate Kill/Death ratios, with a score above 1.0 typically showing that the player is better than the average player.
 

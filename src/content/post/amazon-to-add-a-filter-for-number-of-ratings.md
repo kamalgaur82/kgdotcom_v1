@@ -14,7 +14,8 @@ We have all searched for generic products, and often you will find tens of resul
 
 All it takes are enterprising sellers, who just need to order 1 of their products for themselves, enter a rating as a verified buyer, and voila… their generic product will now make the cut to the highest echelons of quality that Amazon purports to have.
 
-[![](https://kamalgaur.com/wp-content/uploads/2022/01/image.png)](https://kamalgaur.com/wp-content/uploads/2022/01/image.png)
+<!-- <img src="../assets/images/image.png" alt="A bird."> -->
+![A local image](/images/amazon1.png)
 
 “Same generic product… innumerable listings in search!”
 

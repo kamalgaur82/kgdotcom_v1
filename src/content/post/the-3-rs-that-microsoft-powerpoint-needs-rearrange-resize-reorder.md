@@ -14,7 +14,7 @@ And as all relationships go, after the initial honeymoon period, you start to se
 
 For instance, you might find that the human manual way of building a slide with blocks of text might be as under – exhibit Before.
 
-[![](https://kamalgaur.com/wp-content/uploads/2020/12/image-4-1024x438.png)](https://kamalgaur.com/wp-content/uploads/2020/12/image-4.png)
+![A local image](/images/image-4-1024x438.png)
 
 _The Before slide contains 45.7% white space (measured using all the white space found outside boxes)_
 
@@ -24,7 +24,7 @@ Ideally, Powerpoint should just have an option somewhere in their Align menu, th
 
 The objective of Resize & Rearrange is to take advantage of the fact that many times, it doesn’t matter what the content or the layout is… it just needs to be presented on the slide in a form with the easiest readability, which usually means increase in white space.
 
-[![](https://kamalgaur.com/wp-content/uploads/2020/12/image-5-1024x438.png)](https://kamalgaur.com/wp-content/uploads/2020/12/image-5.png)
+![A local image](/images/image-5-1024x438.png)
 
 _The After slide contains 53.4% white spaces, brought upon by resizing, rearranging & reordering existing content on the slide_
 
