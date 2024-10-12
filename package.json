@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
-  "version": "1.0.0-beta.43",
-  "description": "AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
+  "name": "kamalgaur",
+  "version": "1.0.0",
+  "description": "KamalGaur.com: Honing the ability to envision products that need building.",
   "type": "module",
   "private": true,
   "engines": {
@@ -31,6 +31,7 @@
     "astro": "^4.15.1",
     "astro-embed": "^0.7.2",
     "astro-icon": "^1.1.1",
+    "fuse.js": "^7.0.0",
     "limax": "4.1.0",
     "lodash.merge": "^4.6.2",
     "unpic": "^3.18.0"
@@ -39,6 +40,7 @@
     "@astrojs/check": "^0.9.3",
     "@astrojs/mdx": "^3.1.5",
     "@astrojs/partytown": "^2.1.2",
+    "@astrojs/react": "^3.6.2",
     "@astrojs/tailwind": "5.1.0",
     "@eslint/js": "^9.9.1",
     "@iconify-json/flat-color-icons": "^1.1.11",
@@ -65,6 +67,8 @@
     "tailwindcss": "^3.4.10",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.3.0",
-    "unist-util-visit": "^5.0.0"
+    "unist-util-visit": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
