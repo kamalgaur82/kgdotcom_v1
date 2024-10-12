@@ -22,5 +22,20 @@ Mine looks something like this…
 
 And in 2023, with technology integrations being the way they are, it allows me to track lifetime stats for my bike, which look something like this…
   
+<iframe width=900 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMwO7_nUDsctWFMO0ShMDWn88MULAjkW3K8kecO86XdkKL8aEXIrWsIksh1BC-9nh0FQl2nRQpnoH-/pubhtml?gid=1516560230&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<br>
+
+<iframe width=900 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMwO7_nUDsctWFMO0ShMDWn88MULAjkW3K8kecO86XdkKL8aEXIrWsIksh1BC-9nh0FQl2nRQpnoH-/pubhtml?gid=1895036264&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br>
+
+<iframe width=900 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMwO7_nUDsctWFMO0ShMDWn88MULAjkW3K8kecO86XdkKL8aEXIrWsIksh1BC-9nh0FQl2nRQpnoH-/pubhtml?gid=657959021&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br>
+
+<iframe width=900 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMwO7_nUDsctWFMO0ShMDWn88MULAjkW3K8kecO86XdkKL8aEXIrWsIksh1BC-9nh0FQl2nRQpnoH-/pubhtml?gid=472872711&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<br>
+
+<iframe width=900 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMwO7_nUDsctWFMO0ShMDWn88MULAjkW3K8kecO86XdkKL8aEXIrWsIksh1BC-9nh0FQl2nRQpnoH-/pubhtml?gid=1070878993&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<br>
+
+<iframe width=900 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMwO7_nUDsctWFMO0ShMDWn88MULAjkW3K8kecO86XdkKL8aEXIrWsIksh1BC-9nh0FQl2nRQpnoH-/pubhtml?gid=899544576&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<br>
   
 Do have a look and let me know in the comments which metric surprised you the most… and if you think there are any metrics I am missing out on capturing.
