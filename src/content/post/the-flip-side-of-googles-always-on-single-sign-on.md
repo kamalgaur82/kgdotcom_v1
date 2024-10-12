@@ -8,7 +8,7 @@ category: General
 
 Most people who use personal laptops stay signed in to their email & social media accounts, and Big Tech firms like Google encourage & enable this behaviour – for instance, Chrome asks you to ‘sign in’ to your browser by using your Google account credentials. That allows Google to keep all your content & browsing behaviour synced, measured & tracked – not only for themselves, but also for you, in case you’d ever wish to.
 
-![](https://kamalgaur.com/wp-content/uploads/2020/12/image-2.png)
+![A local image](/images/image-2.png)
 
 And for digital natives like me, that offer really does work well for my needs – for instance, if I want to quickly dig out an article I read 5 days ago but on a different device, I can quickly pull up the browsing history of any of my synced devices, and find that article in a jiffy… or for instance, if my failing memory isn’t helping me recognize a particular transaction on my credit card bill, and Google’s location history reminds me that it was, in fact, the charge for picking up this special pickle from this pop-up store on my way back home…
 

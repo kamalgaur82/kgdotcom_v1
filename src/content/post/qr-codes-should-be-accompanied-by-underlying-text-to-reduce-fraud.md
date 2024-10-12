@@ -20,4 +20,4 @@ To summarize – the reason why this idea is important is because, without safeg
 
 If you don’t believe QR codes can do more than just make payments, scan the QR code below –
 
-[![](https://kamalgaur.com/wp-content/uploads/2021/12/KamalGaur_Contact_QR.png)](https://kamalgaur.com/wp-content/uploads/2021/12/KamalGaur%5FContact%5FQR.png)
+![A local image](/images/KamalGaur_Contact_QR.png)
