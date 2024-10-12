@@ -1,6 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
-
+import react from "@astrojs/react";
 import { defineConfig } from 'astro/config';
 
 import sitemap from '@astrojs/sitemap';
@@ -31,6 +31,7 @@ export default defineConfig({
       applyBaseStyles: false,
     }),
     sitemap(),
+    react(),
     mdx(),
     icon({
       include: {

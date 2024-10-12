@@ -4,6 +4,9 @@ author: Kamal Gaur
 title: Going beyond just character names in the Wikipedia plot description 
 excerpt: They say elephants never forget a face. And dogs never forget a name. Scratch that… I think the latter isn’t true. In any case, it… 
 category: General
+tags:
+  - astro
+  - tailwind css
 ---
 
 They say elephants never forget a face. And dogs never forget a name. Scratch that… I think the latter isn’t true.
