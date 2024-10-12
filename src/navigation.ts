@@ -182,7 +182,7 @@ export const footerData = {
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/kamalgaur' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/kamalgaur' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/the-x-man' },
+    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/kamalgaur82' },
   ],
   footNote: `
     
